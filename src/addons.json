@@ -1,0 +1,168 @@
+{
+    "addons": [
+        {   
+            "id": 1,
+            "name": "gm_flux",
+            "author": "GoldBrick",
+            "type": "map",
+            "thumbnail": "/AddonThumbnails/M_F.gif"
+        },
+        {
+            "id": 2,
+            "name": "gm_atomic_regen",
+            "author": "Anonim47",
+            "type": "map",
+            "thumbnail": "/AddonThumbnails/M_GAR.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Infinity Pools",
+            "author": "Redstone.co",
+            "type": "map",
+            "thumbnail": "/AddonThumbnails/M_IP.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Fih playermodel",
+            "author": "moloko",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_FIH.jpg"
+        },
+        {
+            "id": 5,
+            "name": "GTA V Improved Models",
+            "author": "mango",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_GTA.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Pulp Fiction PM",
+            "author": "furuki_ashiki",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_PF.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Minecraft Steve PM",
+            "author": "Kermit the Frog",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_STV.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Kanye West NextBot",
+            "author": "Rubne",
+            "type": "npc",
+            "thumbnail": "/AddonThumbnails/NPC_KNB.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Lethal Company NPCs",
+            "author": "Temy",
+            "type": "npc",
+            "thumbnail": "/AddonThumbnails/NPC_LC.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Team Fortress 2 Bots",
+            "author": "MrNiceGuy518",
+            "type": "npc",
+            "thumbnail": "/AddonThumbnails/NPC_TF2B.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Enchanced Playermodel Selector",
+            "author": "LibertyForce",
+            "type": "tool",
+            "thumbnail": "/AddonThumbnails/T_EPMS.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Seamless Portals",
+            "author": "Meetric",
+            "type": "tool",
+            "thumbnail": "/AddonThumbnails/T_SP.jpg"
+        },
+        {
+            "id": 13,
+            "name": "[LVS] FSO Polonez Caro",
+            "author": "ЛСОЛГН",
+            "type": "vehicle",
+            "thumbnail": "/AddonThumbnails/V_FSOPOLO.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Kitty Car",
+            "author": "SpicyChip",
+            "type": "vehicle",
+            "thumbnail": "/AddonThumbnails/V_KC.jpg"
+        },
+        {
+            "id": 15,
+            "name": "[LVS] - Military Pack",
+            "author": "luna",
+            "type": "vehicle",
+            "thumbnail": "/AddonThumbnails/V_LVSMP.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Heineken Beer SWEP",
+            "author": "c4sual",
+            "type": "weapon",
+            "thumbnail": "/AddonThumbnails/W_HBS.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Maxwell the carryable cat",
+            "author": "☢ScottRim☢",
+            "type": "weapon",
+            "thumbnail": "/AddonThumbnails/W_MTCC.jpg"
+        },
+        {
+            "id": 18,
+            "name": "TF2 Weapon Pack",
+            "author": "Полковник",
+            "type": "weapon",
+            "thumbnail": "/AddonThumbnails/W_TF2WP.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Garry's Bombs 5 Base",
+            "author": "Vlazhimir Klitrovich",
+            "type": "weapon",
+            "thumbnail": "/AddonThumbnails/W_GB5.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Jotaro Kujo - JoJo's Bizzare Adventure [PM]",
+            "author": "BMXTrops",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_JK.jpg"
+        },
+        {
+            "id": 21,
+            "name": "DOOM Eternal - Doom Slayer [PM]",
+            "author": "o u t l a w",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_DE.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Gordon Freeman [PM]",
+            "author": "galunga",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_GF.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Cyberpunk 2077 - Johnny Silverhand [PM]",
+            "author": "Konnie",
+            "type": "model",
+            "thumbnail": "/AddonThumbnails/MDL_JS.jpg"
+        }
+        
+        
+    ]
+
+}

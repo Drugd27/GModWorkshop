@@ -1,0 +1,120 @@
+html {
+    background-image: url("/blueprint-background.png");
+    overflow-x: hidden;
+    
+    margin: 20px;
+}
+
+body {
+    background: transparent;
+    padding: 20px;
+}
+
+.page {
+    max-width: fit-content;    
+    background: transparent;
+}
+
+.main-header {
+    text-align: center;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 4px ridge rgb(84, 152, 255);
+    
+}
+
+.main-header div {
+    background: transparent;
+}
+
+.main-header h2 {
+    font-size: 66px;
+    font-weight: bold;
+    margin: 10px;
+
+    color: rgb(255, 255, 255);
+
+}
+
+.main-header p {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+   
+}
+
+.main-header a {
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.main-header img {
+    width: 8%;
+    margin: auto;
+
+}
+
+.filters {
+    width: 300px;
+
+    padding: 25px;
+    margin-top: 20px;
+    text-align: left;
+
+    background: rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+    border: 4px ridge rgb(84, 152, 255);
+}
+
+.filters input {
+    width: 200px
+}
+
+.filters h6 {
+    padding: 5px;
+}
+
+#typeList {
+    list-style-type: none;
+    
+}
+
+.btn {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 2px ridge;
+    width: 45%;
+}
+
+.browser {
+    margin: 20px;
+    padding: 20px;
+
+    
+
+    border: 4px ridge rgb(84, 152, 255);
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.addon-card {
+    height: auto;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+
+    border: 4px ridge rgba(255, 255, 255, 0.2);
+    /* From https://css.glass */
+        background: rgba(84, 152, 255, 0.22);
+        border-radius: 10px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(3px);
+        -webkit-backdrop-filter: blur(3px);
+
+
+    color: white;
+}
+
+.addon-card img {
+    border: 4px ridge rgba(255, 255, 255, 0.1);
+    width: 80%;
+}
